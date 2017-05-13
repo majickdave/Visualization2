@@ -1,0 +1,52 @@
+[
+  {
+    "composition": "stone",
+    "mass": 38.928070068359375,
+    "id": 0
+  },
+  {
+    "composition": "water",
+    "mass": 66.214111328125,
+    "id": 1
+  },
+  {
+    "composition": "water",
+    "mass": 44.79486846923828,
+    "id": 2
+  },
+  {
+    "composition": "water",
+    "mass": 50.86552810668945,
+    "id": 3
+  },
+  {
+    "composition": "logic",
+    "mass": 51.34388732910156,
+    "id": 4
+  },
+  {
+    "composition": "water",
+    "mass": 16.508031845092773,
+    "id": 5
+  },
+  {
+    "composition": "logic",
+    "mass": 22.238277435302734,
+    "id": 6
+  },
+  {
+    "composition": "salt",
+    "mass": 20.124406814575195,
+    "id": 7
+  },
+  {
+    "composition": "ice",
+    "mass": 56.203067779541016,
+    "id": 8
+  },
+  {
+    "composition": "water",
+    "mass": 51.06155014038086,
+    "id": 9
+  }
+]

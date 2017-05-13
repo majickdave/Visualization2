@@ -1,0 +1,42 @@
+[
+  {
+    "composition": "logic",
+    "mass": 74,
+    "id": 0
+  },
+  {
+    "composition": "flume",
+    "mass": 52,
+    "id": 1
+  },
+  {
+    "composition": "bonobo",
+    "mass": 58,
+    "id": 2
+  },
+  {
+    "composition": "gryfn",
+    "mass": 77,
+    "id": 3
+  },
+  {
+    "composition": "crooked_colours",
+    "mass": 37,
+    "id": 4
+  },
+  {
+    "composition": "rhianna",
+    "mass": 55,
+    "id": 5
+  },
+  {
+    "composition": "snakehips",
+    "mass": 49,
+    "id": 6
+  },
+  {
+    "composition": "toro",
+    "mass": 50,
+    "id": 7
+  }
+]
