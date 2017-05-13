@@ -132,7 +132,7 @@ public void draw() {
       text(s, (-w)/2, height/2-20, 100);
     }
   }
-  saveFrame();
+//  saveFrame();
 }
   public void settings() {  size(1000, 1000, P3D); }
   static public void main(String[] passedArgs) {
