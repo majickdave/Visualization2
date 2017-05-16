@@ -14,12 +14,14 @@ import java.io.IOException;
 
 public class json_builder extends PApplet {
 
-int PlanetCount = 8;
-float planetMassMin = 20;
-float planetMassMax = 60;
+
+float planetMassMin = 50;
+float planetMassMax = 100;
 float[] popularity = {74, 52, 58, 77, 37, 55, 49, 50};
-String[] composition = {"travis", "flume", "flume_album", "crooked_colours_album", "crooked_colours", "london_grammar", "zero7", "kanye"};
+String[] composition = {"travis", "flume", "flume_album", "crooked_colours_album", "crooked_colours", "london_grammar", "zero7", "kanye","drake", 
+                        "drake1", "drake2", "drake3", "drake4", "drake5", "kendrick", "nuv", "lost_boy_crow", "ott", "nora", "slusshi", "washed_out"};
 //String[] composition = {"stone"};
+int PlanetCount = composition.length;
 
 JSONArray values;
 
@@ -30,8 +32,8 @@ public void setup() {
   for (int i = 0; i < PlanetCount; i++) {
    
     JSONObject planet = new JSONObject();
-    planet.setFloat("mass", popularity[i]);
-    planet.setString("composition", composition[i]);
+    planet.setFloat("mass", random(planetMassMin, planetMassMax));
+    planet.setString("composition", composition[i]); //PApplet.parseInt(random(composition.length))
     planet.setInt("id", i);
     
     values.setJSONObject(i, planet);
