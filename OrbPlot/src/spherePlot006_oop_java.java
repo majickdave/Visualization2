@@ -25,7 +25,7 @@ JSONArray planetsData;
 Planet[] orbs;
 PFont font;
 float plotRadii, sclFactor;
-float attraction = 5.0f;
+float attraction = 1.0f;
 
 public void setup() {
   
@@ -34,14 +34,14 @@ public void setup() {
 
   font = loadFont("ArialMT-148.vlw");
   // load JSON data
-  planetsData =loadJSONArray("planets.json");
+  planetsData =loadJSONArray("majickdave_planets.json");
   // size arrays
   int dataSize = planetsData.size();
   attraction = 1.0f - 1.0f/(dataSize*10);
 
   orbs = new Planet[dataSize];
   for (int i=0; i<dataSize; i++) {
-    plotRadii += PI*planetsData.getJSONObject(i).getFloat("mass")*planetsData.getJSONObject(i).getFloat("mass");
+    plotRadii += PI*planetsData.getJSONObject(i).getFloat("track_popularity")*planetsData.getJSONObject(i).getFloat("artist_popularity");
   }
   float canvasArea = PI*(width/2.6f)*(width/2.6f);
   sclFactor = sqrt(canvasArea/plotRadii);
@@ -50,7 +50,7 @@ public void setup() {
 
   for (int i=0; i<dataSize; i++) {
     JSONObject planet = planetsData.getJSONObject(i); 
-    orbs[i] = new Planet(this, new PVector(random(-2, 2), random(-2, 2)), planet.getFloat("mass")*sclFactor, i, planet.getString("composition"));
+    orbs[i] = new Planet(this, new PVector(random(-2, 2), random(-2, 2)), planet.getFloat("track_popularity")*sclFactor, i, planet.getString("trackID"));
   }
 }
 
@@ -62,7 +62,7 @@ public void draw() {
   pointLight(255, 255, 255, -100, -100, 800);
   pointLight(150, 150, 150, -100, 100, 800);
   specular(255, 255, 255);
-  shininess(10);
+  shininess(75);
 
   translate(width/2, height/2);
   // orb-orb collision
@@ -94,9 +94,9 @@ public void draw() {
   for (int i=0; i<orbs.length; i++) {
     pushMatrix();
     translate(orbs[i].loc.x, orbs[i].loc.y, orbs[i].loc.z);
-//    rotateX(orbs[i].rot.x);
-//    rotateY(orbs[i].rot.y);
-//    rotateZ(orbs[i].rot.z);
+    rotateX(orbs[i].rot.x);
+    rotateY(orbs[i].rot.y);
+    rotateZ(orbs[i].rot.z);
     noStroke();
     orbs[i].display();
     popMatrix();
@@ -127,7 +127,7 @@ public void draw() {
 
       fill(85);
       textFont(font, 23);
-      String s = "  Planet ID:  " + orbs[i].id + "       Artist:  " + orbs[i].composition +"       Popularity: " + orbs[i].radius;
+      String s = "  Planet ID:  " + orbs[i].id + "       Track:  " + orbs[i].trackID +"       Popularity: " + orbs[i].radius;
       float w = textWidth(s);
       text(s, (-w)/2, height/2-20, 100);
     }

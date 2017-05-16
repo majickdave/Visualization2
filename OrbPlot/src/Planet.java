@@ -5,7 +5,7 @@ public class Planet {
   public PVector rot;
   public float radius;
   public int id;
-  public String composition, textureURL;
+  public String trackID, textureURL;
   public PApplet p;
   IJGSphere s;
 
@@ -13,14 +13,14 @@ public class Planet {
   public Planet() {
   }
 
-  public Planet(PApplet p, PVector loc, float radius, int id, String composition) {
+  public Planet(PApplet p, PVector loc, float radius, int id, String trackID) {
     this.p = p;
     this.loc = loc;
     rot = new PVector(0,0,0);
     this.radius = radius;
     this.id = id;
-    this.composition = composition;
-    textureURL = composition+".jpeg";
+    this.trackID = trackID;
+    textureURL = "trackID_"+trackID+".jpeg";
 
     s = new IJGSphere(this.p, new RGBA(120, 120, 120, 255), textureURL, radius, 16, 16);
     
