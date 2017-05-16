@@ -28,7 +28,6 @@ float plotRadii, sclFactor;
 float attraction = 1.0f;
 
 public void setup() {
-  
   noStroke();
   ortho();
 
@@ -50,12 +49,14 @@ public void setup() {
 
   for (int i=0; i<dataSize; i++) {
     JSONObject planet = planetsData.getJSONObject(i); 
-    orbs[i] = new Planet(this, new PVector(random(-2, 2), random(-2, 2)), planet.getFloat("track_popularity")*sclFactor, i, planet.getString("trackID"));
+    //   public Planet(PApplet p, PVector loc, float radius, int id, String trackID, int popularity, String artist_name, String track_name) {
+    orbs[i] = new Planet(this, new PVector(random(-2, 2), random(-2, 2)), planet.getFloat("track_popularity")*sclFactor, i, 
+            planet.getString("trackID"), planet.getInt("track_popularity"), planet.getInt("artist_popularity"), planet.getString("artist_name"), planet.getString("track_name"), planet.getString("album_name"));
   }
 }
 
 public void draw() {
-  background(0);
+  background(100);
   ambientLight(85, 85, 85);
   emissive(30, 0, 0);
   lightSpecular(255, 255, 255);
@@ -94,10 +95,13 @@ public void draw() {
   for (int i=0; i<orbs.length; i++) {
     pushMatrix();
     translate(orbs[i].loc.x, orbs[i].loc.y, orbs[i].loc.z);
+
     rotateX(orbs[i].rot.x);
     rotateY(orbs[i].rot.y);
     rotateZ(orbs[i].rot.z);
     noStroke();
+    
+
     orbs[i].display();
     popMatrix();
 
@@ -125,16 +129,29 @@ public void draw() {
       ellipse(orbs[i].loc.x, orbs[i].loc.y, orbs[i].radius*2, orbs[i].radius*2);
       popMatrix();
 
-      fill(85);
+      fill(255);
       textFont(font, 23);
-      String s = "  Planet ID:  " + orbs[i].id + "       Track:  " + orbs[i].trackID +"       Popularity: " + orbs[i].radius;
+      String s = " Album:  " + orbs[i].album_name + "   Track:  " + orbs[i].track_name +"   Popularity: " + orbs[i].track_popularity;
+      
+      String album_title = orbs[i].album_name;
+      String artist_name = orbs[i].artist_name;
+      String artist_popularity = " is rated "+str(orbs[i].artist_popularity);
+      
       float w = textWidth(s);
+      float y = textWidth(album_title+' '+str(orbs[i].artist_popularity));
+      
       text(s, (-w)/2, height/2-20, 100);
+//      text(a, (-x)/2, height/2-20, 10);
+      fill(255-51,255-22,255-18);
+      textFont(font, 32);
+      //textMode(CENTER);
+      text(artist_name+artist_popularity, orbs[i].loc.x-200, orbs[i].loc.y, orbs[i].loc.z+300);
+
     }
   }
 //  saveFrame();
 }
-  public void settings() {  size(1000, 1000, P3D); }
+  public void settings() {  size(1024, 1024, P3D); }
   static public void main(String[] passedArgs) {
     String[] appletArgs = new String[] { "spherePlot006_oop_java" };
     if (passedArgs != null) {
