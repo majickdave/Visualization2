@@ -56,7 +56,7 @@ public void setup() {
 }
 
 public void draw() {
-  background(100);
+  background(0);
   ambientLight(85, 85, 85);
   emissive(30, 0, 0);
   lightSpecular(255, 255, 255);
@@ -142,8 +142,8 @@ public void draw() {
       
       text(s, (-w)/2, height/2-20, 100);
 //      text(a, (-x)/2, height/2-20, 10);
-      fill(255-51,255-22,255-18);
-      textFont(font, 32);
+      // fill(255-51,255-22,255-18);
+      textFont(font, 48*orbs[i].artist_popularity/100);
       //textMode(CENTER);
       text(artist_name+artist_popularity, orbs[i].loc.x-200, orbs[i].loc.y, orbs[i].loc.z+300);
 
