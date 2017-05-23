@@ -1,0 +1,2733 @@
+[
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/56wkp0dkpjimGfX17Ofihm", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/56wkp0dkpjimGfX17Ofihm", 
+                "energy": 0.801, 
+                "liveness": 0.109, 
+                "tempo": 146.881, 
+                "speechiness": 0.282, 
+                "uri": "spotify:track:56wkp0dkpjimGfX17Ofihm", 
+                "acousticness": 0.193, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.779, 
+                "key": 7, 
+                "duration_ms": 228550, 
+                "loudness": -4.939, 
+                "valence": 0.534, 
+                "type": "audio_features", 
+                "id": "56wkp0dkpjimGfX17Ofihm", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "56wkp0dkpjimGfX17Ofihm", 
+        "artist_name": "Divine Council", 
+        "related_artist_popularity": {
+            "Divine Council": 42, 
+            "$ilkMoney": 39, 
+            "Andre Benjamin": 54
+        }, 
+        "album_name": "Council World", 
+        "genres": [
+            "underground hip hop"
+        ], 
+        "track_popularity": 51, 
+        "artistID": {
+            "name": "Divine Council", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uZtWlFj7GOUOMFIPWwPNG"
+            }, 
+            "uri": "spotify:artist:1uZtWlFj7GOUOMFIPWwPNG", 
+            "href": "https://api.spotify.com/v1/artists/1uZtWlFj7GOUOMFIPWwPNG", 
+            "type": "artist", 
+            "id": "1uZtWlFj7GOUOMFIPWwPNG"
+        }, 
+        "track_name": "Decemba (Remix)", 
+        "followers": {
+            "total": 5955, 
+            "href": null
+        }, 
+        "artist_popularity": 42
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/4Z1t1aMRif8ES212kTN8H2", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Z1t1aMRif8ES212kTN8H2", 
+                "energy": 0.677, 
+                "liveness": 0.171, 
+                "tempo": 163.951, 
+                "speechiness": 0.0869, 
+                "uri": "spotify:track:4Z1t1aMRif8ES212kTN8H2", 
+                "acousticness": 0.0427, 
+                "instrumentalness": 1.32e-05, 
+                "time_signature": 4, 
+                "danceability": 0.5, 
+                "key": 9, 
+                "duration_ms": 225200, 
+                "loudness": -7.237, 
+                "valence": 0.208, 
+                "type": "audio_features", 
+                "id": "4Z1t1aMRif8ES212kTN8H2", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "4Z1t1aMRif8ES212kTN8H2", 
+        "artist_name": "Gryffin", 
+        "related_artist_popularity": {
+            "Bipolar Sunshine": 72, 
+            "Gryffin": 74
+        }, 
+        "album_name": "Whole Heart", 
+        "genres": [
+            "big room", 
+            "deep tropical house", 
+            "edm", 
+            "electro house", 
+            "indie poptimism", 
+            "pop", 
+            "tropical house"
+        ], 
+        "track_popularity": 69, 
+        "artistID": {
+            "name": "Gryffin", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+            }, 
+            "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh", 
+            "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh", 
+            "type": "artist", 
+            "id": "2ZRQcIgzPCVaT9XKhXZIzh"
+        }, 
+        "track_name": "Whole Heart", 
+        "followers": {
+            "total": 42608, 
+            "href": null
+        }, 
+        "artist_popularity": 74
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/50vJAEL1kd4p2SXPbNZ0LB", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/50vJAEL1kd4p2SXPbNZ0LB", 
+                "energy": 0.383, 
+                "liveness": 0.0665, 
+                "tempo": 88.011, 
+                "speechiness": 0.319, 
+                "uri": "spotify:track:50vJAEL1kd4p2SXPbNZ0LB", 
+                "acousticness": 0.852, 
+                "instrumentalness": 0.851, 
+                "time_signature": 4, 
+                "danceability": 0.791, 
+                "key": 6, 
+                "duration_ms": 255059, 
+                "loudness": -9.721, 
+                "valence": 0.324, 
+                "type": "audio_features", 
+                "id": "50vJAEL1kd4p2SXPbNZ0LB", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "50vJAEL1kd4p2SXPbNZ0LB", 
+        "artist_name": "Romare", 
+        "related_artist_popularity": {
+            "Romare": 50
+        }, 
+        "album_name": "Late Night Tales: Bonobo", 
+        "genres": [
+            "afrobeat", 
+            "bass music", 
+            "chamber psych", 
+            "electronic", 
+            "float house", 
+            "french indietronica", 
+            "future garage", 
+            "indie jazz", 
+            "indie r&b", 
+            "indietronica", 
+            "microhouse", 
+            "new rave", 
+            "ninja", 
+            "wonky"
+        ], 
+        "track_popularity": 43, 
+        "artistID": {
+            "name": "Romare", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+            }, 
+            "uri": "spotify:artist:6d1HqiWNEKV9zFqQM9WeYo", 
+            "href": "https://api.spotify.com/v1/artists/6d1HqiWNEKV9zFqQM9WeYo", 
+            "type": "artist", 
+            "id": "6d1HqiWNEKV9zFqQM9WeYo"
+        }, 
+        "track_name": "Down the Line (It Takes a Number)", 
+        "followers": {
+            "total": 29325, 
+            "href": null
+        }, 
+        "artist_popularity": 50
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/6H0zRPEV1ezBHOidNXSt1D", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6H0zRPEV1ezBHOidNXSt1D", 
+                "energy": 0.711, 
+                "liveness": 0.139, 
+                "tempo": 159.837, 
+                "speechiness": 0.0432, 
+                "uri": "spotify:track:6H0zRPEV1ezBHOidNXSt1D", 
+                "acousticness": 0.373, 
+                "instrumentalness": 0.00179, 
+                "time_signature": 4, 
+                "danceability": 0.41, 
+                "key": 4, 
+                "duration_ms": 245250, 
+                "loudness": -3.064, 
+                "valence": 0.247, 
+                "type": "audio_features", 
+                "id": "6H0zRPEV1ezBHOidNXSt1D", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "6H0zRPEV1ezBHOidNXSt1D", 
+        "artist_name": "Illenium", 
+        "related_artist_popularity": {
+            "Illenium": 76, 
+            "Nevve": 61
+        }, 
+        "album_name": "Fractures (feat. Nevve)", 
+        "genres": [
+            "bass trap", 
+            "brostep", 
+            "edm", 
+            "electro house", 
+            "electronic trap", 
+            "indie poptimism", 
+            "tropical house"
+        ], 
+        "track_popularity": 72, 
+        "artistID": {
+            "name": "Illenium", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+            }, 
+            "uri": "spotify:artist:45eNHdiiabvmbp4erw26rg", 
+            "href": "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg", 
+            "type": "artist", 
+            "id": "45eNHdiiabvmbp4erw26rg"
+        }, 
+        "track_name": "Fractures (feat. Nevve)", 
+        "followers": {
+            "total": 123013, 
+            "href": null
+        }, 
+        "artist_popularity": 76
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/73V6cuFASuzoYUrCFnD07J", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/73V6cuFASuzoYUrCFnD07J", 
+                "energy": 0.543, 
+                "liveness": 0.175, 
+                "tempo": 120.1, 
+                "speechiness": 0.358, 
+                "uri": "spotify:track:73V6cuFASuzoYUrCFnD07J", 
+                "acousticness": 0.341, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.745, 
+                "key": 4, 
+                "duration_ms": 193227, 
+                "loudness": -9.019, 
+                "valence": 0.402, 
+                "type": "audio_features", 
+                "id": "73V6cuFASuzoYUrCFnD07J", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "73V6cuFASuzoYUrCFnD07J", 
+        "artist_name": "G-Eazy", 
+        "related_artist_popularity": {
+            "Smokepurpp": 60, 
+            "Carnage": 72, 
+            "G-Eazy": 89
+        }, 
+        "album_name": "Step Brothers", 
+        "genres": [
+            "pop rap", 
+            "rap", 
+            "underground pop rap"
+        ], 
+        "track_popularity": 68, 
+        "artistID": {
+            "name": "G-Eazy", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+            }, 
+            "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z", 
+            "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z", 
+            "type": "artist", 
+            "id": "02kJSzxNuaWGqwubyUba0Z"
+        }, 
+        "track_name": "Buddha", 
+        "followers": {
+            "total": 1922265, 
+            "href": null
+        }, 
+        "artist_popularity": 89
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/6m8uAsdrrL4dgsdYBqlRss", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6m8uAsdrrL4dgsdYBqlRss", 
+                "energy": 0.712, 
+                "liveness": 0.192, 
+                "tempo": 120.022, 
+                "speechiness": 0.409, 
+                "uri": "spotify:track:6m8uAsdrrL4dgsdYBqlRss", 
+                "acousticness": 0.00025, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.524, 
+                "key": 11, 
+                "duration_ms": 160133, 
+                "loudness": -7.488, 
+                "valence": 0.435, 
+                "type": "audio_features", 
+                "id": "6m8uAsdrrL4dgsdYBqlRss", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "6m8uAsdrrL4dgsdYBqlRss", 
+        "artist_name": "G-Eazy", 
+        "related_artist_popularity": {
+            "Carnage": 72, 
+            "G-Eazy": 89
+        }, 
+        "album_name": "Step Brothers", 
+        "genres": [
+            "pop rap", 
+            "rap", 
+            "underground pop rap"
+        ], 
+        "track_popularity": 64, 
+        "artistID": {
+            "name": "G-Eazy", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+            }, 
+            "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z", 
+            "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z", 
+            "type": "artist", 
+            "id": "02kJSzxNuaWGqwubyUba0Z"
+        }, 
+        "track_name": "Gimme Gimme", 
+        "followers": {
+            "total": 1922265, 
+            "href": null
+        }, 
+        "artist_popularity": 89
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/7lQPebfYdc97DMfQxp4BiA", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lQPebfYdc97DMfQxp4BiA", 
+                "energy": 0.847, 
+                "liveness": 0.615, 
+                "tempo": 94.261, 
+                "speechiness": 0.258, 
+                "uri": "spotify:track:7lQPebfYdc97DMfQxp4BiA", 
+                "acousticness": 0.198, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.556, 
+                "key": 1, 
+                "duration_ms": 219520, 
+                "loudness": -3.281, 
+                "valence": 0.525, 
+                "type": "audio_features", 
+                "id": "7lQPebfYdc97DMfQxp4BiA", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "7lQPebfYdc97DMfQxp4BiA", 
+        "artist_name": "Snakehips", 
+        "related_artist_popularity": {
+            "Malika": 42, 
+            "Snakehips": 76
+        }, 
+        "album_name": "All My Friends - EP", 
+        "genres": [
+            "edm", 
+            "indie poptimism", 
+            "pop", 
+            "post-teen pop", 
+            "tropical house"
+        ], 
+        "track_popularity": 55, 
+        "artistID": {
+            "name": "Snakehips", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+            }, 
+            "uri": "spotify:artist:2FwJwEswyIUAljqgjNSHgP", 
+            "href": "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP", 
+            "type": "artist", 
+            "id": "2FwJwEswyIUAljqgjNSHgP"
+        }, 
+        "track_name": "Falling", 
+        "followers": {
+            "total": 128653, 
+            "href": null
+        }, 
+        "artist_popularity": 76
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/2JfeUjJvP1lJkCSne9g0de", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2JfeUjJvP1lJkCSne9g0de", 
+                "energy": 0.43, 
+                "liveness": 0.08, 
+                "tempo": 145.802, 
+                "speechiness": 0.525, 
+                "uri": "spotify:track:2JfeUjJvP1lJkCSne9g0de", 
+                "acousticness": 0.00199, 
+                "instrumentalness": 2.46e-06, 
+                "time_signature": 4, 
+                "danceability": 0.676, 
+                "key": 1, 
+                "duration_ms": 220427, 
+                "loudness": -9.533, 
+                "valence": 0.123, 
+                "type": "audio_features", 
+                "id": "2JfeUjJvP1lJkCSne9g0de", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "2JfeUjJvP1lJkCSne9g0de", 
+        "artist_name": "Drake", 
+        "related_artist_popularity": {
+            "Future": 95, 
+            "Drake": 100
+        }, 
+        "album_name": "Views", 
+        "genres": [
+            "canadian pop", 
+            "hip hop", 
+            "pop rap", 
+            "rap"
+        ], 
+        "track_popularity": 63, 
+        "artistID": {
+            "name": "Drake", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            }, 
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4", 
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4", 
+            "type": "artist", 
+            "id": "3TVXtAsR1Inumwj472S9r4"
+        }, 
+        "track_name": "Grammys", 
+        "followers": {
+            "total": 10115884, 
+            "href": null
+        }, 
+        "artist_popularity": 100
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/49fT6owWuknekShh9utsjv", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/49fT6owWuknekShh9utsjv", 
+                "energy": 0.562, 
+                "liveness": 0.104, 
+                "tempo": 100.17, 
+                "speechiness": 0.492, 
+                "uri": "spotify:track:49fT6owWuknekShh9utsjv", 
+                "acousticness": 0.593, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.837, 
+                "key": 1, 
+                "duration_ms": 147240, 
+                "loudness": -6.038, 
+                "valence": 0.158, 
+                "type": "audio_features", 
+                "id": "49fT6owWuknekShh9utsjv", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "49fT6owWuknekShh9utsjv", 
+        "artist_name": "Kanye West", 
+        "related_artist_popularity": {
+            "Kanye West": 90
+        }, 
+        "album_name": "The Life Of Pablo", 
+        "genres": [
+            "pop", 
+            "pop christmas", 
+            "pop rap", 
+            "rap"
+        ], 
+        "track_popularity": 65, 
+        "artistID": {
+            "name": "Kanye West", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }, 
+        "track_name": "Feedback", 
+        "followers": {
+            "total": 4634022, 
+            "href": null
+        }, 
+        "artist_popularity": 90
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/2AYTGaclgKXACh13nJRVcV", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2AYTGaclgKXACh13nJRVcV", 
+                "energy": 0.717, 
+                "liveness": 0.493, 
+                "tempo": 117.489, 
+                "speechiness": 0.397, 
+                "uri": "spotify:track:2AYTGaclgKXACh13nJRVcV", 
+                "acousticness": 0.097, 
+                "instrumentalness": 0, 
+                "time_signature": 5, 
+                "danceability": 0.564, 
+                "key": 10, 
+                "duration_ms": 284831, 
+                "loudness": -6.403, 
+                "valence": 0.421, 
+                "type": "audio_features", 
+                "id": "2AYTGaclgKXACh13nJRVcV", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "2AYTGaclgKXACh13nJRVcV", 
+        "artist_name": "Fat Joe", 
+        "related_artist_popularity": {
+            "InfaRed": 66, 
+            "French Montana": 84, 
+            "JAY Z": 83, 
+            "Fat Joe": 72, 
+            "Remy Ma": 71
+        }, 
+        "album_name": "All The Way Up (Remix) (feat. French Montana & Infared) - Single", 
+        "genres": [
+            "dirty south rap", 
+            "dwn trap", 
+            "east coast hip hop", 
+            "gangster rap", 
+            "hardcore hip hop", 
+            "hip hop", 
+            "hip pop", 
+            "pop rap", 
+            "rap", 
+            "trap music"
+        ], 
+        "track_popularity": 75, 
+        "artistID": {
+            "name": "Fat Joe", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+            }, 
+            "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6", 
+            "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6", 
+            "type": "artist", 
+            "id": "3ScY9CQxNLQei8Umvpx5g6"
+        }, 
+        "track_name": "All The Way Up (Remix)", 
+        "followers": {
+            "total": 176916, 
+            "href": null
+        }, 
+        "artist_popularity": 72
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/7dvd3b2oz7AFgXrPBIIYxR", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dvd3b2oz7AFgXrPBIIYxR", 
+                "energy": 0.905, 
+                "liveness": 0.111, 
+                "tempo": 160.013, 
+                "speechiness": 0.267, 
+                "uri": "spotify:track:7dvd3b2oz7AFgXrPBIIYxR", 
+                "acousticness": 0.0104, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.557, 
+                "key": 11, 
+                "duration_ms": 244693, 
+                "loudness": -4.506, 
+                "valence": 0.813, 
+                "type": "audio_features", 
+                "id": "7dvd3b2oz7AFgXrPBIIYxR", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "7dvd3b2oz7AFgXrPBIIYxR", 
+        "artist_name": "JAY Z", 
+        "related_artist_popularity": {
+            "Linkin Park": 84, 
+            "JAY Z": 83
+        }, 
+        "album_name": "Collision Course (Deluxe Version)", 
+        "genres": [
+            "east coast hip hop", 
+            "hip hop", 
+            "pop rap", 
+            "rap", 
+            "southern hip hop", 
+            "trap music"
+        ], 
+        "track_popularity": 59, 
+        "artistID": {
+            "name": "JAY Z", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            }, 
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB", 
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB", 
+            "type": "artist", 
+            "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }, 
+        "track_name": "Dirt Off Your Shoulder / Lying From You", 
+        "followers": {
+            "total": 2657877, 
+            "href": null
+        }, 
+        "artist_popularity": 83
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/432hUIl3ISDeytYW5XBQ5h", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/432hUIl3ISDeytYW5XBQ5h", 
+                "energy": 0.399, 
+                "liveness": 0.131, 
+                "tempo": 78.248, 
+                "speechiness": 0.045, 
+                "uri": "spotify:track:432hUIl3ISDeytYW5XBQ5h", 
+                "acousticness": 0.186, 
+                "instrumentalness": 0.00255, 
+                "time_signature": 4, 
+                "danceability": 0.539, 
+                "key": 1, 
+                "duration_ms": 301587, 
+                "loudness": -8.016, 
+                "valence": 0.11, 
+                "type": "audio_features", 
+                "id": "432hUIl3ISDeytYW5XBQ5h", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "432hUIl3ISDeytYW5XBQ5h", 
+        "artist_name": "Kanye West", 
+        "related_artist_popularity": {
+            "Kanye West": 90
+        }, 
+        "album_name": "The Life Of Pablo", 
+        "genres": [
+            "pop", 
+            "pop christmas", 
+            "pop rap", 
+            "rap"
+        ], 
+        "track_popularity": 69, 
+        "artistID": {
+            "name": "Kanye West", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            }, 
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x", 
+            "type": "artist", 
+            "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }, 
+        "track_name": "Wolves", 
+        "followers": {
+            "total": 4634022, 
+            "href": null
+        }, 
+        "artist_popularity": 90
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/4AewKenHXKBt643p473xCk", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4AewKenHXKBt643p473xCk", 
+                "energy": 0.866, 
+                "liveness": 0.113, 
+                "tempo": 135.006, 
+                "speechiness": 0.0832, 
+                "uri": "spotify:track:4AewKenHXKBt643p473xCk", 
+                "acousticness": 0.022, 
+                "instrumentalness": 0.0027, 
+                "time_signature": 4, 
+                "danceability": 0.545, 
+                "key": 6, 
+                "duration_ms": 260987, 
+                "loudness": -5.25, 
+                "valence": 0.308, 
+                "type": "audio_features", 
+                "id": "4AewKenHXKBt643p473xCk", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "4AewKenHXKBt643p473xCk", 
+        "artist_name": "B\u00d8RNS", 
+        "related_artist_popularity": {
+            "B\u00d8RNS": 68
+        }, 
+        "album_name": "Dopamine", 
+        "genres": [
+            "indie pop", 
+            "indie poptimism", 
+            "indietronica", 
+            "pop", 
+            "shimmer pop"
+        ], 
+        "track_popularity": 65, 
+        "artistID": {
+            "name": "B\u00d8RNS", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+            }, 
+            "uri": "spotify:artist:1KP6TWI40m7p3QBTU6u2xo", 
+            "href": "https://api.spotify.com/v1/artists/1KP6TWI40m7p3QBTU6u2xo", 
+            "type": "artist", 
+            "id": "1KP6TWI40m7p3QBTU6u2xo"
+        }, 
+        "track_name": "American Money", 
+        "followers": {
+            "total": 319824, 
+            "href": null
+        }, 
+        "artist_popularity": 68
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/04tpozNTvYulQIdkL4bOrI", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/04tpozNTvYulQIdkL4bOrI", 
+                "energy": 0.747, 
+                "liveness": 0.053, 
+                "tempo": 122.023, 
+                "speechiness": 0.0507, 
+                "uri": "spotify:track:04tpozNTvYulQIdkL4bOrI", 
+                "acousticness": 0.0129, 
+                "instrumentalness": 0.00287, 
+                "time_signature": 4, 
+                "danceability": 0.825, 
+                "key": 6, 
+                "duration_ms": 191557, 
+                "loudness": -4.784, 
+                "valence": 0.77, 
+                "type": "audio_features", 
+                "id": "04tpozNTvYulQIdkL4bOrI", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "04tpozNTvYulQIdkL4bOrI", 
+        "artist_name": "Nora En Pure", 
+        "related_artist_popularity": {
+            "Nora En Pure": 65
+        }, 
+        "album_name": "Morning Dew", 
+        "genres": [
+            "deep groove house", 
+            "deep tropical house", 
+            "disco house", 
+            "edm", 
+            "groove room", 
+            "house", 
+            "progressive house", 
+            "tropical house"
+        ], 
+        "track_popularity": 51, 
+        "artistID": {
+            "name": "Nora En Pure", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+            }, 
+            "uri": "spotify:artist:24DO0PijjITGIEWsO8XaPs", 
+            "href": "https://api.spotify.com/v1/artists/24DO0PijjITGIEWsO8XaPs", 
+            "type": "artist", 
+            "id": "24DO0PijjITGIEWsO8XaPs"
+        }, 
+        "track_name": "Better off That Way - Radio Mix", 
+        "followers": {
+            "total": 59315, 
+            "href": null
+        }, 
+        "artist_popularity": 65
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/4Fhr4xXkEzYF4bA9g679E4", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Fhr4xXkEzYF4bA9g679E4", 
+                "energy": 0.873, 
+                "liveness": 0.0897, 
+                "tempo": 125.999, 
+                "speechiness": 0.0479, 
+                "uri": "spotify:track:4Fhr4xXkEzYF4bA9g679E4", 
+                "acousticness": 0.00374, 
+                "instrumentalness": 0.19, 
+                "time_signature": 4, 
+                "danceability": 0.754, 
+                "key": 4, 
+                "duration_ms": 278733, 
+                "loudness": -4.139, 
+                "valence": 0.902, 
+                "type": "audio_features", 
+                "id": "4Fhr4xXkEzYF4bA9g679E4", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "4Fhr4xXkEzYF4bA9g679E4", 
+        "artist_name": "Client Liaison", 
+        "related_artist_popularity": {
+            "Client Liaison": 52
+        }, 
+        "album_name": "Free Of Fear", 
+        "genres": [
+            "deep australian indie"
+        ], 
+        "track_popularity": 34, 
+        "artistID": {
+            "name": "Client Liaison", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ"
+            }, 
+            "uri": "spotify:artist:5TjlxSJvfrD5I2PWaEh4jZ", 
+            "href": "https://api.spotify.com/v1/artists/5TjlxSJvfrD5I2PWaEh4jZ", 
+            "type": "artist", 
+            "id": "5TjlxSJvfrD5I2PWaEh4jZ"
+        }, 
+        "track_name": "That's Desire", 
+        "followers": {
+            "total": 8540, 
+            "href": null
+        }, 
+        "artist_popularity": 52
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/4viit9KG9GCBBNyPHbMnbO", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4viit9KG9GCBBNyPHbMnbO", 
+                "energy": 0.604, 
+                "liveness": 0.102, 
+                "tempo": 175.934, 
+                "speechiness": 0.15, 
+                "uri": "spotify:track:4viit9KG9GCBBNyPHbMnbO", 
+                "acousticness": 0.209, 
+                "instrumentalness": 0.273, 
+                "time_signature": 4, 
+                "danceability": 0.681, 
+                "key": 0, 
+                "duration_ms": 370227, 
+                "loudness": -6.542, 
+                "valence": 0.666, 
+                "type": "audio_features", 
+                "id": "4viit9KG9GCBBNyPHbMnbO", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "4viit9KG9GCBBNyPHbMnbO", 
+        "artist_name": "Sunsquabi", 
+        "related_artist_popularity": {
+            "Sunsquabi": 44
+        }, 
+        "album_name": "Deluxe EP", 
+        "genres": [
+            "jam band"
+        ], 
+        "track_popularity": 35, 
+        "artistID": {
+            "name": "Sunsquabi", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+            }, 
+            "uri": "spotify:artist:1CLLPNftraxuTDyTd6hn3J", 
+            "href": "https://api.spotify.com/v1/artists/1CLLPNftraxuTDyTd6hn3J", 
+            "type": "artist", 
+            "id": "1CLLPNftraxuTDyTd6hn3J"
+        }, 
+        "track_name": "Daydream", 
+        "followers": {
+            "total": 8088, 
+            "href": null
+        }, 
+        "artist_popularity": 44
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/61QSuw5VlC0LTS8WMO356g", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/61QSuw5VlC0LTS8WMO356g", 
+                "energy": 0.721, 
+                "liveness": 0.824, 
+                "tempo": 117.139, 
+                "speechiness": 0.386, 
+                "uri": "spotify:track:61QSuw5VlC0LTS8WMO356g", 
+                "acousticness": 0.062, 
+                "instrumentalness": 0, 
+                "time_signature": 5, 
+                "danceability": 0.536, 
+                "key": 10, 
+                "duration_ms": 191942, 
+                "loudness": -6.44, 
+                "valence": 0.388, 
+                "type": "audio_features", 
+                "id": "61QSuw5VlC0LTS8WMO356g", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "61QSuw5VlC0LTS8WMO356g", 
+        "artist_name": "Fat Joe", 
+        "related_artist_popularity": {
+            "InfaRed": 66, 
+            "French Montana": 84, 
+            "Fat Joe": 72, 
+            "Remy Ma": 71
+        }, 
+        "album_name": "All The Way Up (feat. French Montana & Infared) - Single", 
+        "genres": [
+            "dirty south rap", 
+            "dwn trap", 
+            "east coast hip hop", 
+            "gangster rap", 
+            "hardcore hip hop", 
+            "hip hop", 
+            "hip pop", 
+            "pop rap", 
+            "rap", 
+            "trap music"
+        ], 
+        "track_popularity": 77, 
+        "artistID": {
+            "name": "Fat Joe", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+            }, 
+            "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6", 
+            "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6", 
+            "type": "artist", 
+            "id": "3ScY9CQxNLQei8Umvpx5g6"
+        }, 
+        "track_name": "All The Way Up", 
+        "followers": {
+            "total": 176916, 
+            "href": null
+        }, 
+        "artist_popularity": 72
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/51dDTfSeHbZsu21R8fyV7m", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/51dDTfSeHbZsu21R8fyV7m", 
+                "energy": 0.505, 
+                "liveness": 0.177, 
+                "tempo": 76.208, 
+                "speechiness": 0.0296, 
+                "uri": "spotify:track:51dDTfSeHbZsu21R8fyV7m", 
+                "acousticness": 0.712, 
+                "instrumentalness": 8.23e-06, 
+                "time_signature": 4, 
+                "danceability": 0.294, 
+                "key": 8, 
+                "duration_ms": 275771, 
+                "loudness": -6.631, 
+                "valence": 0.232, 
+                "type": "audio_features", 
+                "id": "51dDTfSeHbZsu21R8fyV7m", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "51dDTfSeHbZsu21R8fyV7m", 
+        "artist_name": "London Grammar", 
+        "related_artist_popularity": {
+            "London Grammar": 70
+        }, 
+        "album_name": "Oh Woman Oh Man", 
+        "genres": [
+            "indie anthem-folk", 
+            "indie folk", 
+            "indie r&b", 
+            "indietronica", 
+            "metropopolis", 
+            "neo mellow", 
+            "pop", 
+            "tropical house"
+        ], 
+        "track_popularity": 64, 
+        "artistID": {
+            "name": "London Grammar", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+            }, 
+            "uri": "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO", 
+            "href": "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO", 
+            "type": "artist", 
+            "id": "3Bd1cgCjtCI32PYvDC3ynO"
+        }, 
+        "track_name": "Oh Woman Oh Man", 
+        "followers": {
+            "total": 577108, 
+            "href": null
+        }, 
+        "artist_popularity": 70
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/58kwvMXeOlsvzPqUlyj75Y", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/58kwvMXeOlsvzPqUlyj75Y", 
+                "energy": 0.972, 
+                "liveness": 0.124, 
+                "tempo": 122.962, 
+                "speechiness": 0.0858, 
+                "uri": "spotify:track:58kwvMXeOlsvzPqUlyj75Y", 
+                "acousticness": 0.29, 
+                "instrumentalness": 0.000922, 
+                "time_signature": 4, 
+                "danceability": 0.748, 
+                "key": 5, 
+                "duration_ms": 343027, 
+                "loudness": -2.817, 
+                "valence": 0.508, 
+                "type": "audio_features", 
+                "id": "58kwvMXeOlsvzPqUlyj75Y", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "58kwvMXeOlsvzPqUlyj75Y", 
+        "artist_name": "Logic", 
+        "related_artist_popularity": {
+            "Killer Mike": 67, 
+            "Logic": 88
+        }, 
+        "album_name": "Everybody", 
+        "genres": [
+            "pop rap", 
+            "rap"
+        ], 
+        "track_popularity": 76, 
+        "artistID": {
+            "name": "Logic", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+            }, 
+            "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L", 
+            "href": "https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L", 
+            "type": "artist", 
+            "id": "4xRYI6VqpkE3UwrDrAZL8L"
+        }, 
+        "track_name": "Confess", 
+        "followers": {
+            "total": 1104352, 
+            "href": null
+        }, 
+        "artist_popularity": 88
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/7ppz0b5ecGXM8xHg5yGDhK", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ppz0b5ecGXM8xHg5yGDhK", 
+                "energy": 0.727, 
+                "liveness": 0.13, 
+                "tempo": 145.014, 
+                "speechiness": 0.0362, 
+                "uri": "spotify:track:7ppz0b5ecGXM8xHg5yGDhK", 
+                "acousticness": 0.263, 
+                "instrumentalness": 0.000257, 
+                "time_signature": 4, 
+                "danceability": 0.712, 
+                "key": 4, 
+                "duration_ms": 178767, 
+                "loudness": -5.22, 
+                "valence": 0.493, 
+                "type": "audio_features", 
+                "id": "7ppz0b5ecGXM8xHg5yGDhK", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "7ppz0b5ecGXM8xHg5yGDhK", 
+        "artist_name": "Slushii", 
+        "related_artist_popularity": {
+            "Slushii": 63, 
+            "Madi": 54
+        }, 
+        "album_name": "So Long (feat. Madi)", 
+        "genres": [
+            "bass trap", 
+            "big room", 
+            "brostep", 
+            "catstep", 
+            "deep big room", 
+            "edm", 
+            "electro house", 
+            "electronic trap", 
+            "moombahton", 
+            "tracestep", 
+            "vapor twitch"
+        ], 
+        "track_popularity": 62, 
+        "artistID": {
+            "name": "Slushii", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+            }, 
+            "uri": "spotify:artist:41rVuRHYAiH7ltBTHVR9We", 
+            "href": "https://api.spotify.com/v1/artists/41rVuRHYAiH7ltBTHVR9We", 
+            "type": "artist", 
+            "id": "41rVuRHYAiH7ltBTHVR9We"
+        }, 
+        "track_name": "So Long (feat. Madi)", 
+        "followers": {
+            "total": 82007, 
+            "href": null
+        }, 
+        "artist_popularity": 63
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/3VvBPkc24zC7x05mgJTyGO", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VvBPkc24zC7x05mgJTyGO", 
+                "energy": 0.69, 
+                "liveness": 0.0969, 
+                "tempo": 107.014, 
+                "speechiness": 0.035, 
+                "uri": "spotify:track:3VvBPkc24zC7x05mgJTyGO", 
+                "acousticness": 0.114, 
+                "instrumentalness": 0.00217, 
+                "time_signature": 4, 
+                "danceability": 0.53, 
+                "key": 1, 
+                "duration_ms": 290467, 
+                "loudness": -3.591, 
+                "valence": 0.217, 
+                "type": "audio_features", 
+                "id": "3VvBPkc24zC7x05mgJTyGO", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "3VvBPkc24zC7x05mgJTyGO", 
+        "artist_name": "TheFatRat", 
+        "related_artist_popularity": {
+            "Laura Brehm": 61, 
+            "TheFatRat": 64
+        }, 
+        "album_name": "Monody (feat. Laura Brehm)", 
+        "genres": [
+            "catstep", 
+            "edm", 
+            "tracestep"
+        ], 
+        "track_popularity": 67, 
+        "artistID": {
+            "name": "TheFatRat", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+            }, 
+            "uri": "spotify:artist:3OKg7YbOIatODzkRIbLJR4", 
+            "href": "https://api.spotify.com/v1/artists/3OKg7YbOIatODzkRIbLJR4", 
+            "type": "artist", 
+            "id": "3OKg7YbOIatODzkRIbLJR4"
+        }, 
+        "track_name": "Monody (feat. Laura Brehm)", 
+        "followers": {
+            "total": 171002, 
+            "href": null
+        }, 
+        "artist_popularity": 64
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/17YxLowBaHnAi68ZEH1WN4", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/17YxLowBaHnAi68ZEH1WN4", 
+                "energy": 0.611, 
+                "liveness": 0.342, 
+                "tempo": 99.995, 
+                "speechiness": 0.105, 
+                "uri": "spotify:track:17YxLowBaHnAi68ZEH1WN4", 
+                "acousticness": 0.127, 
+                "instrumentalness": 0.0038, 
+                "time_signature": 4, 
+                "danceability": 0.857, 
+                "key": 9, 
+                "duration_ms": 261561, 
+                "loudness": -10.7, 
+                "valence": 0.334, 
+                "type": "audio_features", 
+                "id": "17YxLowBaHnAi68ZEH1WN4", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "17YxLowBaHnAi68ZEH1WN4", 
+        "artist_name": "Karma Kid", 
+        "related_artist_popularity": {
+            "Amin\u00e9": 73, 
+            "Karma Kid": 45
+        }, 
+        "album_name": "Man of the Year", 
+        "genres": [], 
+        "track_popularity": 55, 
+        "artistID": {
+            "name": "Karma Kid", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+            }, 
+            "uri": "spotify:artist:2X2cDFal9ci8yS5FDHYZv2", 
+            "href": "https://api.spotify.com/v1/artists/2X2cDFal9ci8yS5FDHYZv2", 
+            "type": "artist", 
+            "id": "2X2cDFal9ci8yS5FDHYZv2"
+        }, 
+        "track_name": "Thru the Tundra", 
+        "followers": {
+            "total": 8853, 
+            "href": null
+        }, 
+        "artist_popularity": 45
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/6ISionOfm9VCredgDEUSIG", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ISionOfm9VCredgDEUSIG", 
+                "energy": 0.479, 
+                "liveness": 0.0724, 
+                "tempo": 160.028, 
+                "speechiness": 0.0579, 
+                "uri": "spotify:track:6ISionOfm9VCredgDEUSIG", 
+                "acousticness": 0.144, 
+                "instrumentalness": 0.000104, 
+                "time_signature": 4, 
+                "danceability": 0.66, 
+                "key": 7, 
+                "duration_ms": 238500, 
+                "loudness": -9.24, 
+                "valence": 0.511, 
+                "type": "audio_features", 
+                "id": "6ISionOfm9VCredgDEUSIG", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "6ISionOfm9VCredgDEUSIG", 
+        "artist_name": "Lostboycrow", 
+        "related_artist_popularity": {
+            "Lostboycrow": 66
+        }, 
+        "album_name": "Real Name", 
+        "genres": [
+            "deep tropical house", 
+            "indie poptimism", 
+            "tropical house", 
+            "vapor soul"
+        ], 
+        "track_popularity": 59, 
+        "artistID": {
+            "name": "Lostboycrow", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
+            }, 
+            "uri": "spotify:artist:5PxCTrv3Y1xVACfngpt7D2", 
+            "href": "https://api.spotify.com/v1/artists/5PxCTrv3Y1xVACfngpt7D2", 
+            "type": "artist", 
+            "id": "5PxCTrv3Y1xVACfngpt7D2"
+        }, 
+        "track_name": "Real Name", 
+        "followers": {
+            "total": 25232, 
+            "href": null
+        }, 
+        "artist_popularity": 66
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/0Ev562zA4pmUsBqjxsxxdx", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Ev562zA4pmUsBqjxsxxdx", 
+                "energy": 0.71, 
+                "liveness": 0.21, 
+                "tempo": 137.968, 
+                "speechiness": 0.0354, 
+                "uri": "spotify:track:0Ev562zA4pmUsBqjxsxxdx", 
+                "acousticness": 0.231, 
+                "instrumentalness": 2.61e-06, 
+                "time_signature": 4, 
+                "danceability": 0.62, 
+                "key": 2, 
+                "duration_ms": 248156, 
+                "loudness": -4.72, 
+                "valence": 0.425, 
+                "type": "audio_features", 
+                "id": "0Ev562zA4pmUsBqjxsxxdx", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "0Ev562zA4pmUsBqjxsxxdx", 
+        "artist_name": "Gryffin", 
+        "related_artist_popularity": {
+            "Gryffin": 74, 
+            "Illenium": 76, 
+            "Daya": 79
+        }, 
+        "album_name": "Feel Good (feat. Daya)", 
+        "genres": [
+            "big room", 
+            "deep tropical house", 
+            "edm", 
+            "electro house", 
+            "indie poptimism", 
+            "pop", 
+            "tropical house"
+        ], 
+        "track_popularity": 77, 
+        "artistID": {
+            "name": "Gryffin", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+            }, 
+            "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh", 
+            "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh", 
+            "type": "artist", 
+            "id": "2ZRQcIgzPCVaT9XKhXZIzh"
+        }, 
+        "track_name": "Feel Good (feat. Daya)", 
+        "followers": {
+            "total": 42608, 
+            "href": null
+        }, 
+        "artist_popularity": 74
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/1SWBWsj3dSq4USUtHH0Qnd", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SWBWsj3dSq4USUtHH0Qnd", 
+                "energy": 0.787, 
+                "liveness": 0.146, 
+                "tempo": 115.061, 
+                "speechiness": 0.0879, 
+                "uri": "spotify:track:1SWBWsj3dSq4USUtHH0Qnd", 
+                "acousticness": 0.273, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.755, 
+                "key": 11, 
+                "duration_ms": 173707, 
+                "loudness": -6.449, 
+                "valence": 0.488, 
+                "type": "audio_features", 
+                "id": "1SWBWsj3dSq4USUtHH0Qnd", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "1SWBWsj3dSq4USUtHH0Qnd", 
+        "artist_name": "Snakehips", 
+        "related_artist_popularity": {
+            "Snakehips": 76, 
+            "Anderson .Paak": 74
+        }, 
+        "album_name": "Money On Me - EP", 
+        "genres": [
+            "edm", 
+            "indie poptimism", 
+            "pop", 
+            "post-teen pop", 
+            "tropical house"
+        ], 
+        "track_popularity": 49, 
+        "artistID": {
+            "name": "Snakehips", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+            }, 
+            "uri": "spotify:artist:2FwJwEswyIUAljqgjNSHgP", 
+            "href": "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP", 
+            "type": "artist", 
+            "id": "2FwJwEswyIUAljqgjNSHgP"
+        }, 
+        "track_name": "Money On Me", 
+        "followers": {
+            "total": 128653, 
+            "href": null
+        }, 
+        "artist_popularity": 76
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/1TfoQDkbDYrL9pPm648gJl", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TfoQDkbDYrL9pPm648gJl", 
+                "energy": 0.599, 
+                "liveness": 0.188, 
+                "tempo": 136.105, 
+                "speechiness": 0.167, 
+                "uri": "spotify:track:1TfoQDkbDYrL9pPm648gJl", 
+                "acousticness": 0.209, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.462, 
+                "key": 10, 
+                "duration_ms": 238263, 
+                "loudness": -13.277, 
+                "valence": 0.263, 
+                "type": "audio_features", 
+                "id": "1TfoQDkbDYrL9pPm648gJl", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "1TfoQDkbDYrL9pPm648gJl", 
+        "artist_name": "Nav Tre", 
+        "related_artist_popularity": {
+            "Nav Tre": 37
+        }, 
+        "album_name": "Lay You Down", 
+        "genres": [], 
+        "track_popularity": 48, 
+        "artistID": {
+            "name": "Nav Tre", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0nKJSVUNATMNAIiCGR45M5"
+            }, 
+            "uri": "spotify:artist:0nKJSVUNATMNAIiCGR45M5", 
+            "href": "https://api.spotify.com/v1/artists/0nKJSVUNATMNAIiCGR45M5", 
+            "type": "artist", 
+            "id": "0nKJSVUNATMNAIiCGR45M5"
+        }, 
+        "track_name": "Lay You Down", 
+        "followers": {
+            "total": 64, 
+            "href": null
+        }, 
+        "artist_popularity": 37
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/3hE2oRxFPuEsn7GMQaU1Te", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3hE2oRxFPuEsn7GMQaU1Te", 
+                "energy": 0.608, 
+                "liveness": 0.177, 
+                "tempo": 73.554, 
+                "speechiness": 0.135, 
+                "uri": "spotify:track:3hE2oRxFPuEsn7GMQaU1Te", 
+                "acousticness": 0.509, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.61, 
+                "key": 2, 
+                "duration_ms": 200400, 
+                "loudness": -7.302, 
+                "valence": 0.492, 
+                "type": "audio_features", 
+                "id": "3hE2oRxFPuEsn7GMQaU1Te", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "3hE2oRxFPuEsn7GMQaU1Te", 
+        "artist_name": "Crooked Colours", 
+        "related_artist_popularity": {
+            "Crooked Colours": 49, 
+            "Ivan Ooze": 35
+        }, 
+        "album_name": "Vera", 
+        "genres": [
+            "aussietronica", 
+            "deep australian indie", 
+            "vapor soul", 
+            "vapor twitch"
+        ], 
+        "track_popularity": 40, 
+        "artistID": {
+            "name": "Crooked Colours", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+            }, 
+            "uri": "spotify:artist:0aA1GTrIMutjIh4GlPPUVN", 
+            "href": "https://api.spotify.com/v1/artists/0aA1GTrIMutjIh4GlPPUVN", 
+            "type": "artist", 
+            "id": "0aA1GTrIMutjIh4GlPPUVN"
+        }, 
+        "track_name": "I Hope You Get It (feat. Ivan Ooze)", 
+        "followers": {
+            "total": 10094, 
+            "href": null
+        }, 
+        "artist_popularity": 49
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/6A3jho0DmzfAtSDsiZdfFd", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6A3jho0DmzfAtSDsiZdfFd", 
+                "energy": 0.765, 
+                "liveness": 0.0918, 
+                "tempo": 149.913, 
+                "speechiness": 0.0999, 
+                "uri": "spotify:track:6A3jho0DmzfAtSDsiZdfFd", 
+                "acousticness": 0.00228, 
+                "instrumentalness": 0.0322, 
+                "time_signature": 4, 
+                "danceability": 0.745, 
+                "key": 10, 
+                "duration_ms": 131227, 
+                "loudness": -5.58, 
+                "valence": 0.905, 
+                "type": "audio_features", 
+                "id": "6A3jho0DmzfAtSDsiZdfFd", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "6A3jho0DmzfAtSDsiZdfFd", 
+        "artist_name": "Rihanna", 
+        "related_artist_popularity": {
+            "Rihanna": 92, 
+            "Eva Shaw": 59
+        }, 
+        "album_name": "Pose (Dance Remixes)", 
+        "genres": [
+            "dance pop", 
+            "pop", 
+            "pop christmas", 
+            "r&b", 
+            "soul christmas", 
+            "urban contemporary"
+        ], 
+        "track_popularity": 53, 
+        "artistID": {
+            "name": "Rihanna", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            }, 
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H", 
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H", 
+            "type": "artist", 
+            "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        }, 
+        "track_name": "Pose - Eva Shaw Remix", 
+        "followers": {
+            "total": 10429117, 
+            "href": null
+        }, 
+        "artist_popularity": 92
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/2V37GP6a9cCyIxUzvJvJPl", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2V37GP6a9cCyIxUzvJvJPl", 
+                "energy": 0.512, 
+                "liveness": 0.401, 
+                "tempo": 112.406, 
+                "speechiness": 0.0328, 
+                "uri": "spotify:track:2V37GP6a9cCyIxUzvJvJPl", 
+                "acousticness": 0.0705, 
+                "instrumentalness": 3e-05, 
+                "time_signature": 3, 
+                "danceability": 0.335, 
+                "key": 0, 
+                "duration_ms": 97599, 
+                "loudness": -9.103, 
+                "valence": 0.174, 
+                "type": "audio_features", 
+                "id": "2V37GP6a9cCyIxUzvJvJPl", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "2V37GP6a9cCyIxUzvJvJPl", 
+        "artist_name": "Machinedrum", 
+        "related_artist_popularity": {
+            "Machinedrum": 49
+        }, 
+        "album_name": "Human Energy", 
+        "genres": [
+            "bass music", 
+            "chillwave", 
+            "electronic", 
+            "electronic trap", 
+            "escape room", 
+            "fluxwork", 
+            "footwork", 
+            "future garage", 
+            "glitch hop", 
+            "indie r&b", 
+            "indietronica", 
+            "intelligent dance music", 
+            "microhouse", 
+            "ninja", 
+            "uk garage", 
+            "vapor twitch", 
+            "vaporwave", 
+            "wonky"
+        ], 
+        "track_popularity": 27, 
+        "artistID": {
+            "name": "Machinedrum", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+            }, 
+            "uri": "spotify:artist:06xa1OLBsMQJFXcl2tQkH4", 
+            "href": "https://api.spotify.com/v1/artists/06xa1OLBsMQJFXcl2tQkH4", 
+            "type": "artist", 
+            "id": "06xa1OLBsMQJFXcl2tQkH4"
+        }, 
+        "track_name": "Etheric Body Temple", 
+        "followers": {
+            "total": 37984, 
+            "href": null
+        }, 
+        "artist_popularity": 49
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/2fezlPyF8GNdKXv9cYAi0T", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fezlPyF8GNdKXv9cYAi0T", 
+                "energy": 0.586, 
+                "liveness": 0.117, 
+                "tempo": 138.031, 
+                "speechiness": 0.0306, 
+                "uri": "spotify:track:2fezlPyF8GNdKXv9cYAi0T", 
+                "acousticness": 0.216, 
+                "instrumentalness": 0.638, 
+                "time_signature": 4, 
+                "danceability": 0.631, 
+                "key": 7, 
+                "duration_ms": 339826, 
+                "loudness": -9.104, 
+                "valence": 0.435, 
+                "type": "audio_features", 
+                "id": "2fezlPyF8GNdKXv9cYAi0T", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "2fezlPyF8GNdKXv9cYAi0T", 
+        "artist_name": "Zero 7", 
+        "related_artist_popularity": {
+            "Zero 7": 58
+        }, 
+        "album_name": "RECORD", 
+        "genres": [
+            "acid jazz", 
+            "downtempo", 
+            "electronic", 
+            "nu jazz", 
+            "trip hop"
+        ], 
+        "track_popularity": 49, 
+        "artistID": {
+            "name": "Zero 7", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+            }, 
+            "uri": "spotify:artist:14H7ag1wpQOsPPQJOD6Dqr", 
+            "href": "https://api.spotify.com/v1/artists/14H7ag1wpQOsPPQJOD6Dqr", 
+            "type": "artist", 
+            "id": "14H7ag1wpQOsPPQJOD6Dqr"
+        }, 
+        "track_name": "Destiny", 
+        "followers": {
+            "total": 184894, 
+            "href": null
+        }, 
+        "artist_popularity": 58
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/4GroumsjzAcgCwJzTGY7px", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4GroumsjzAcgCwJzTGY7px", 
+                "energy": 0.461, 
+                "liveness": 0.0865, 
+                "tempo": 89.995, 
+                "speechiness": 0.0341, 
+                "uri": "spotify:track:4GroumsjzAcgCwJzTGY7px", 
+                "acousticness": 0.236, 
+                "instrumentalness": 0.531, 
+                "time_signature": 4, 
+                "danceability": 0.54, 
+                "key": 10, 
+                "duration_ms": 232550, 
+                "loudness": -9.427, 
+                "valence": 0.108, 
+                "type": "audio_features", 
+                "id": "4GroumsjzAcgCwJzTGY7px", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "4GroumsjzAcgCwJzTGY7px", 
+        "artist_name": "Bonobo", 
+        "related_artist_popularity": {
+            "Bonobo": 71
+        }, 
+        "album_name": "Migration", 
+        "genres": [
+            "downtempo", 
+            "electronic", 
+            "indie r&b", 
+            "indietronica", 
+            "ninja", 
+            "nu jazz", 
+            "trip hop", 
+            "tropical house"
+        ], 
+        "track_popularity": 57, 
+        "artistID": {
+            "name": "Bonobo", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            }, 
+            "uri": "spotify:artist:0cmWgDlu9CwTgxPhf403hb", 
+            "href": "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb", 
+            "type": "artist", 
+            "id": "0cmWgDlu9CwTgxPhf403hb"
+        }, 
+        "track_name": "Ontario", 
+        "followers": {
+            "total": 595322, 
+            "href": null
+        }, 
+        "artist_popularity": 71
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/0bJbyM0q5tUPKFi2p3cLej", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0bJbyM0q5tUPKFi2p3cLej", 
+                "energy": 0.701, 
+                "liveness": 0.1, 
+                "tempo": 134.979, 
+                "speechiness": 0.0396, 
+                "uri": "spotify:track:0bJbyM0q5tUPKFi2p3cLej", 
+                "acousticness": 0.0418, 
+                "instrumentalness": 0.355, 
+                "time_signature": 4, 
+                "danceability": 0.596, 
+                "key": 4, 
+                "duration_ms": 216411, 
+                "loudness": -7.871, 
+                "valence": 0.34, 
+                "type": "audio_features", 
+                "id": "0bJbyM0q5tUPKFi2p3cLej", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "0bJbyM0q5tUPKFi2p3cLej", 
+        "artist_name": "Flume", 
+        "related_artist_popularity": {
+            "Flume": 79, 
+            "Jacques Greene": 49, 
+            "MNDR": 56
+        }, 
+        "album_name": "Skin: The Remixes", 
+        "genres": [
+            "aussietronica", 
+            "australian alternative rock", 
+            "australian dance", 
+            "downtempo", 
+            "pop", 
+            "tropical house"
+        ], 
+        "track_popularity": 51, 
+        "artistID": {
+            "name": "Flume", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+            }, 
+            "uri": "spotify:artist:6nxWCVXbOlEVRexSbLsTer", 
+            "href": "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer", 
+            "type": "artist", 
+            "id": "6nxWCVXbOlEVRexSbLsTer"
+        }, 
+        "track_name": "Like Water - Jacques Greene Remix", 
+        "followers": {
+            "total": 1035448, 
+            "href": null
+        }, 
+        "artist_popularity": 79
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/7dEYUkZMdUs7rfOKRMr5lO", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dEYUkZMdUs7rfOKRMr5lO", 
+                "energy": 0.579, 
+                "liveness": 0.119, 
+                "tempo": 124.966, 
+                "speechiness": 0.0358, 
+                "uri": "spotify:track:7dEYUkZMdUs7rfOKRMr5lO", 
+                "acousticness": 0.342, 
+                "instrumentalness": 0.0856, 
+                "time_signature": 4, 
+                "danceability": 0.629, 
+                "key": 3, 
+                "duration_ms": 226979, 
+                "loudness": -6.859, 
+                "valence": 0.309, 
+                "type": "audio_features", 
+                "id": "7dEYUkZMdUs7rfOKRMr5lO", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "7dEYUkZMdUs7rfOKRMr5lO", 
+        "artist_name": "Big Wild", 
+        "related_artist_popularity": {
+            "Yuna": 65, 
+            "Big Wild": 62, 
+            "Cabu": 48
+        }, 
+        "album_name": "Empty Room", 
+        "genres": [
+            "bass trap", 
+            "edm", 
+            "electronic trap", 
+            "indie poptimism", 
+            "tropical house", 
+            "vapor soul", 
+            "vapor twitch"
+        ], 
+        "track_popularity": 44, 
+        "artistID": {
+            "name": "Big Wild", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+            }, 
+            "uri": "spotify:artist:0PxzGnCYBpSuaI49OR94cA", 
+            "href": "https://api.spotify.com/v1/artists/0PxzGnCYBpSuaI49OR94cA", 
+            "type": "artist", 
+            "id": "0PxzGnCYBpSuaI49OR94cA"
+        }, 
+        "track_name": "Empty Room - Cabu Remix", 
+        "followers": {
+            "total": 34156, 
+            "href": null
+        }, 
+        "artist_popularity": 62
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/3FCmZ3ONp13Wn083Fl2K3H", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FCmZ3ONp13Wn083Fl2K3H", 
+                "energy": 0.748, 
+                "liveness": 0.608, 
+                "tempo": 79.337, 
+                "speechiness": 0.0413, 
+                "uri": "spotify:track:3FCmZ3ONp13Wn083Fl2K3H", 
+                "acousticness": 0.000304, 
+                "instrumentalness": 0.0139, 
+                "time_signature": 4, 
+                "danceability": 0.316, 
+                "key": 2, 
+                "duration_ms": 245880, 
+                "loudness": -8.187, 
+                "valence": 0.239, 
+                "type": "audio_features", 
+                "id": "3FCmZ3ONp13Wn083Fl2K3H", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "3FCmZ3ONp13Wn083Fl2K3H", 
+        "artist_name": "Washed Out", 
+        "related_artist_popularity": {
+            "Washed Out": 60
+        }, 
+        "album_name": "Paracosm", 
+        "genres": [
+            "alternative dance", 
+            "chamber pop", 
+            "chillwave", 
+            "dream pop", 
+            "freak folk", 
+            "indie folk", 
+            "indie pop", 
+            "indie psych-rock", 
+            "indie r&b", 
+            "indie rock", 
+            "indietronica", 
+            "neo-psychedelic", 
+            "new rave", 
+            "nu gaze", 
+            "shimmer pop", 
+            "synthpop"
+        ], 
+        "track_popularity": 59, 
+        "artistID": {
+            "name": "Washed Out", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+            }, 
+            "uri": "spotify:artist:5juOkIIy18sFw9L30syt1Z", 
+            "href": "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z", 
+            "type": "artist", 
+            "id": "5juOkIIy18sFw9L30syt1Z"
+        }, 
+        "track_name": "It All Feels Right", 
+        "followers": {
+            "total": 230338, 
+            "href": null
+        }, 
+        "artist_popularity": 60
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/1tH0Xwni0oJe4DI6O7naRW", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tH0Xwni0oJe4DI6O7naRW", 
+                "energy": 0.638, 
+                "liveness": 0.111, 
+                "tempo": 118.996, 
+                "speechiness": 0.0342, 
+                "uri": "spotify:track:1tH0Xwni0oJe4DI6O7naRW", 
+                "acousticness": 0.000687, 
+                "instrumentalness": 0.188, 
+                "time_signature": 4, 
+                "danceability": 0.687, 
+                "key": 1, 
+                "duration_ms": 284347, 
+                "loudness": -10.087, 
+                "valence": 0.175, 
+                "type": "audio_features", 
+                "id": "1tH0Xwni0oJe4DI6O7naRW", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "1tH0Xwni0oJe4DI6O7naRW", 
+        "artist_name": "Toro y Moi", 
+        "related_artist_popularity": {
+            "Toro y Moi": 60
+        }, 
+        "album_name": "Anything In Return", 
+        "genres": [
+            "alternative dance", 
+            "chillwave", 
+            "dance-punk", 
+            "deep indie r&b", 
+            "escape room", 
+            "freak folk", 
+            "indie garage rock", 
+            "indie pop", 
+            "indie psych-rock", 
+            "indie r&b", 
+            "indie rock", 
+            "indietronica", 
+            "neo-psychedelic", 
+            "new rave", 
+            "noise pop", 
+            "nu gaze", 
+            "shimmer pop", 
+            "synthpop"
+        ], 
+        "track_popularity": 50, 
+        "artistID": {
+            "name": "Toro y Moi", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+            }, 
+            "uri": "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp", 
+            "href": "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp", 
+            "type": "artist", 
+            "id": "6O4EGCCb6DoIiR6B1QCQgp"
+        }, 
+        "track_name": "Say That", 
+        "followers": {
+            "total": 223315, 
+            "href": null
+        }, 
+        "artist_popularity": 60
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/2uxnU3kxN3ymVTuJTiWUZp", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2uxnU3kxN3ymVTuJTiWUZp", 
+                "energy": 0.593, 
+                "liveness": 0.204, 
+                "tempo": 127.945, 
+                "speechiness": 0.0532, 
+                "uri": "spotify:track:2uxnU3kxN3ymVTuJTiWUZp", 
+                "acousticness": 0.00566, 
+                "instrumentalness": 0.0755, 
+                "time_signature": 4, 
+                "danceability": 0.659, 
+                "key": 7, 
+                "duration_ms": 413507, 
+                "loudness": -10.766, 
+                "valence": 0.087, 
+                "type": "audio_features", 
+                "id": "2uxnU3kxN3ymVTuJTiWUZp", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "2uxnU3kxN3ymVTuJTiWUZp", 
+        "artist_name": "Ott", 
+        "related_artist_popularity": {
+            "Ott": 46
+        }, 
+        "album_name": "Fairchildren", 
+        "genres": [
+            "downtempo", 
+            "new tribe", 
+            "psychedelic trance", 
+            "psychill", 
+            "world fusion"
+        ], 
+        "track_popularity": 32, 
+        "artistID": {
+            "name": "Ott", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1F102kNzMqsmOpF7AfFmm5"
+            }, 
+            "uri": "spotify:artist:1F102kNzMqsmOpF7AfFmm5", 
+            "href": "https://api.spotify.com/v1/artists/1F102kNzMqsmOpF7AfFmm5", 
+            "type": "artist", 
+            "id": "1F102kNzMqsmOpF7AfFmm5"
+        }, 
+        "track_name": "Harwell Dekatron", 
+        "followers": {
+            "total": 35008, 
+            "href": null
+        }, 
+        "artist_popularity": 46
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/5pkjAwnvb1n3loOcQewWNf", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5pkjAwnvb1n3loOcQewWNf", 
+                "energy": 0.438, 
+                "liveness": 0.326, 
+                "tempo": 69.417, 
+                "speechiness": 0.0378, 
+                "uri": "spotify:track:5pkjAwnvb1n3loOcQewWNf", 
+                "acousticness": 0.243, 
+                "instrumentalness": 0.000937, 
+                "time_signature": 3, 
+                "danceability": 0.312, 
+                "key": 5, 
+                "duration_ms": 295093, 
+                "loudness": -10.036, 
+                "valence": 0.116, 
+                "type": "audio_features", 
+                "id": "5pkjAwnvb1n3loOcQewWNf", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "5pkjAwnvb1n3loOcQewWNf", 
+        "artist_name": "Lana Del Rey", 
+        "related_artist_popularity": {
+            "Lana Del Rey": 84
+        }, 
+        "album_name": "Honeymoon", 
+        "genres": [
+            "dance pop", 
+            "pop"
+        ], 
+        "track_popularity": 42, 
+        "artistID": {
+            "name": "Lana Del Rey", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+            }, 
+            "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa", 
+            "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa", 
+            "type": "artist", 
+            "id": "00FQb4jTyendYWaN8pK0wa"
+        }, 
+        "track_name": "Freak", 
+        "followers": {
+            "total": 4930735, 
+            "href": null
+        }, 
+        "artist_popularity": 84
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/0rVx0JleEdLRafoLAy6hEt", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rVx0JleEdLRafoLAy6hEt", 
+                "energy": 0.556, 
+                "liveness": 0.298, 
+                "tempo": 109.053, 
+                "speechiness": 0.157, 
+                "uri": "spotify:track:0rVx0JleEdLRafoLAy6hEt", 
+                "acousticness": 0.228, 
+                "instrumentalness": 0.0179, 
+                "time_signature": 4, 
+                "danceability": 0.722, 
+                "key": 7, 
+                "duration_ms": 196947, 
+                "loudness": -11.849, 
+                "valence": 0.192, 
+                "type": "audio_features", 
+                "id": "0rVx0JleEdLRafoLAy6hEt", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "0rVx0JleEdLRafoLAy6hEt", 
+        "artist_name": "Raury", 
+        "related_artist_popularity": {
+            "Raury": 64
+        }, 
+        "album_name": "All We Need", 
+        "genres": [
+            "deep indie r&b", 
+            "escape room", 
+            "indie r&b", 
+            "underground hip hop"
+        ], 
+        "track_popularity": 39, 
+        "artistID": {
+            "name": "Raury", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+            }, 
+            "uri": "spotify:artist:2PU4qFehXQF7WnlFsJpBiJ", 
+            "href": "https://api.spotify.com/v1/artists/2PU4qFehXQF7WnlFsJpBiJ", 
+            "type": "artist", 
+            "id": "2PU4qFehXQF7WnlFsJpBiJ"
+        }, 
+        "track_name": "Revolution", 
+        "followers": {
+            "total": 102981, 
+            "href": null
+        }, 
+        "artist_popularity": 64
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/2gfduiQQZfTGvo9Qhaluhi", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gfduiQQZfTGvo9Qhaluhi", 
+                "energy": 0.85, 
+                "liveness": 0.0644, 
+                "tempo": 138.063, 
+                "speechiness": 0.0496, 
+                "uri": "spotify:track:2gfduiQQZfTGvo9Qhaluhi", 
+                "acousticness": 0.0142, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.786, 
+                "key": 11, 
+                "duration_ms": 215435, 
+                "loudness": -3.231, 
+                "valence": 0.659, 
+                "type": "audio_features", 
+                "id": "2gfduiQQZfTGvo9Qhaluhi", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "2gfduiQQZfTGvo9Qhaluhi", 
+        "artist_name": "Balkan Beat Box", 
+        "related_artist_popularity": {
+            "Steve B Isaac": 10, 
+            "Balkan Beat Box": 48
+        }, 
+        "album_name": "Shout It Out (Remixes)", 
+        "genres": [
+            "balkan brass", 
+            "world", 
+            "world fusion"
+        ], 
+        "track_popularity": 24, 
+        "artistID": {
+            "name": "Balkan Beat Box", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+            }, 
+            "uri": "spotify:artist:2rmMyZC0sUD1a3jkDxp7iY", 
+            "href": "https://api.spotify.com/v1/artists/2rmMyZC0sUD1a3jkDxp7iY", 
+            "type": "artist", 
+            "id": "2rmMyZC0sUD1a3jkDxp7iY"
+        }, 
+        "track_name": "Shout It Out - Steve B Isaac Remix", 
+        "followers": {
+            "total": 47889, 
+            "href": null
+        }, 
+        "artist_popularity": 48
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/0gENjASIsFnZQI8ZLcFX8R", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gENjASIsFnZQI8ZLcFX8R", 
+                "energy": 0.538, 
+                "liveness": 0.0791, 
+                "tempo": 109.943, 
+                "speechiness": 0.288, 
+                "uri": "spotify:track:0gENjASIsFnZQI8ZLcFX8R", 
+                "acousticness": 0.0637, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.837, 
+                "key": 0, 
+                "duration_ms": 313987, 
+                "loudness": -8.921, 
+                "valence": 0.329, 
+                "type": "audio_features", 
+                "id": "0gENjASIsFnZQI8ZLcFX8R", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "0gENjASIsFnZQI8ZLcFX8R", 
+        "artist_name": "G-Eazy", 
+        "related_artist_popularity": {
+            "Thirty Rack": 59, 
+            "Carnage": 72, 
+            "G-Eazy": 89
+        }, 
+        "album_name": "Step Brothers", 
+        "genres": [
+            "pop rap", 
+            "rap", 
+            "underground pop rap"
+        ], 
+        "track_popularity": 71, 
+        "artistID": {
+            "name": "G-Eazy", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+            }, 
+            "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z", 
+            "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z", 
+            "type": "artist", 
+            "id": "02kJSzxNuaWGqwubyUba0Z"
+        }, 
+        "track_name": "Guala", 
+        "followers": {
+            "total": 1922265, 
+            "href": null
+        }, 
+        "artist_popularity": 89
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/7y6c07pgjZvtHI9kuMVqk1", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7y6c07pgjZvtHI9kuMVqk1", 
+                "energy": 0.729, 
+                "liveness": 0.104, 
+                "tempo": 123.009, 
+                "speechiness": 0.0493, 
+                "uri": "spotify:track:7y6c07pgjZvtHI9kuMVqk1", 
+                "acousticness": 0.0896, 
+                "instrumentalness": 0.422, 
+                "time_signature": 4, 
+                "danceability": 0.78, 
+                "key": 5, 
+                "duration_ms": 250337, 
+                "loudness": -9.138, 
+                "valence": 0.833, 
+                "type": "audio_features", 
+                "id": "7y6c07pgjZvtHI9kuMVqk1", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "7y6c07pgjZvtHI9kuMVqk1", 
+        "artist_name": "Drake", 
+        "related_artist_popularity": {
+            "Black Coffee": 67, 
+            "Jorja Smith": 72, 
+            "Drake": 100
+        }, 
+        "album_name": "More Life", 
+        "genres": [
+            "canadian pop", 
+            "hip hop", 
+            "pop rap", 
+            "rap"
+        ], 
+        "track_popularity": 82, 
+        "artistID": {
+            "name": "Drake", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            }, 
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4", 
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4", 
+            "type": "artist", 
+            "id": "3TVXtAsR1Inumwj472S9r4"
+        }, 
+        "track_name": "Get It Together", 
+        "followers": {
+            "total": 10115890, 
+            "href": null
+        }, 
+        "artist_popularity": 100
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/1XSvndyw6uqVW1ekRZsJUp", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/1XSvndyw6uqVW1ekRZsJUp", 
+                "energy": 0.47, 
+                "liveness": 0.0806, 
+                "tempo": 129.995, 
+                "speechiness": 0.166, 
+                "uri": "spotify:track:1XSvndyw6uqVW1ekRZsJUp", 
+                "acousticness": 0.358, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.959, 
+                "key": 0, 
+                "duration_ms": 134880, 
+                "loudness": -11.53, 
+                "valence": 0.965, 
+                "type": "audio_features", 
+                "id": "1XSvndyw6uqVW1ekRZsJUp", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "1XSvndyw6uqVW1ekRZsJUp", 
+        "artist_name": "Rich Chigga", 
+        "related_artist_popularity": {
+            "Rich Chigga": 64
+        }, 
+        "album_name": "Who That Be - Single", 
+        "genres": [
+            "dwn trap", 
+            "underground hip hop"
+        ], 
+        "track_popularity": 65, 
+        "artistID": {
+            "name": "Rich Chigga", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+            }, 
+            "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a", 
+            "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a", 
+            "type": "artist", 
+            "id": "2IDLDx25HU1nQMKde4n61a"
+        }, 
+        "track_name": "Who That Be", 
+        "followers": {
+            "total": 107962, 
+            "href": null
+        }, 
+        "artist_popularity": 64
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/5cdEvU6KOF8zX9tuzhFj2j", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cdEvU6KOF8zX9tuzhFj2j", 
+                "energy": 0.502, 
+                "liveness": 0.232, 
+                "tempo": 84.969, 
+                "speechiness": 0.378, 
+                "uri": "spotify:track:5cdEvU6KOF8zX9tuzhFj2j", 
+                "acousticness": 0.105, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.868, 
+                "key": 1, 
+                "duration_ms": 138475, 
+                "loudness": -9.356, 
+                "valence": 0.399, 
+                "type": "audio_features", 
+                "id": "5cdEvU6KOF8zX9tuzhFj2j", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "5cdEvU6KOF8zX9tuzhFj2j", 
+        "artist_name": "Hdbeendope", 
+        "related_artist_popularity": {
+            "Hdbeendope": 32
+        }, 
+        "album_name": "Chutzpah", 
+        "genres": [], 
+        "track_popularity": 40, 
+        "artistID": {
+            "name": "Hdbeendope", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O"
+            }, 
+            "uri": "spotify:artist:7nE3HHVn8oM8s3kA6cbL8O", 
+            "href": "https://api.spotify.com/v1/artists/7nE3HHVn8oM8s3kA6cbL8O", 
+            "type": "artist", 
+            "id": "7nE3HHVn8oM8s3kA6cbL8O"
+        }, 
+        "track_name": "Chutzpah", 
+        "followers": {
+            "total": 1030, 
+            "href": null
+        }, 
+        "artist_popularity": 32
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/3cXyu35gjzalfx6Ra2CV4G", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3cXyu35gjzalfx6Ra2CV4G", 
+                "energy": 0.644, 
+                "liveness": 0.0894, 
+                "tempo": 110.026, 
+                "speechiness": 0.386, 
+                "uri": "spotify:track:3cXyu35gjzalfx6Ra2CV4G", 
+                "acousticness": 0.653, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.53, 
+                "key": 2, 
+                "duration_ms": 160108, 
+                "loudness": -5.713, 
+                "valence": 0.0954, 
+                "type": "audio_features", 
+                "id": "3cXyu35gjzalfx6Ra2CV4G", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "3cXyu35gjzalfx6Ra2CV4G", 
+        "artist_name": "Azide", 
+        "related_artist_popularity": {
+            "J Swey": 34, 
+            "Azide": 37
+        }, 
+        "album_name": "God & the Devil", 
+        "genres": [], 
+        "track_popularity": 47, 
+        "artistID": {
+            "name": "Azide", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
+            }, 
+            "uri": "spotify:artist:0jZCd5FFBIaaiXlIJX6I9h", 
+            "href": "https://api.spotify.com/v1/artists/0jZCd5FFBIaaiXlIJX6I9h", 
+            "type": "artist", 
+            "id": "0jZCd5FFBIaaiXlIJX6I9h"
+        }, 
+        "track_name": "God & the Devil", 
+        "followers": {
+            "total": 1195, 
+            "href": null
+        }, 
+        "artist_popularity": 37
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/6ImkiFGbGHBomTHYUa2vL9", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ImkiFGbGHBomTHYUa2vL9", 
+                "energy": 0.775, 
+                "liveness": 0.134, 
+                "tempo": 91.026, 
+                "speechiness": 0.183, 
+                "uri": "spotify:track:6ImkiFGbGHBomTHYUa2vL9", 
+                "acousticness": 0.0506, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.867, 
+                "key": 1, 
+                "duration_ms": 181978, 
+                "loudness": -3.106, 
+                "valence": 0.497, 
+                "type": "audio_features", 
+                "id": "6ImkiFGbGHBomTHYUa2vL9", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "6ImkiFGbGHBomTHYUa2vL9", 
+        "artist_name": "Stann Smith", 
+        "related_artist_popularity": {
+            "Stann Smith": 31
+        }, 
+        "album_name": "Fear the Sober", 
+        "genres": [], 
+        "track_popularity": 45, 
+        "artistID": {
+            "name": "Stann Smith", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/639c7Mwa0a2hJeH3PSXveg"
+            }, 
+            "uri": "spotify:artist:639c7Mwa0a2hJeH3PSXveg", 
+            "href": "https://api.spotify.com/v1/artists/639c7Mwa0a2hJeH3PSXveg", 
+            "type": "artist", 
+            "id": "639c7Mwa0a2hJeH3PSXveg"
+        }, 
+        "track_name": "Dust Clear", 
+        "followers": {
+            "total": 776, 
+            "href": null
+        }, 
+        "artist_popularity": 31
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/4duVbLF51QbIQ7cUW3SvD3", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/4duVbLF51QbIQ7cUW3SvD3", 
+                "energy": 0.359, 
+                "liveness": 0.567, 
+                "tempo": 120.002, 
+                "speechiness": 0.37, 
+                "uri": "spotify:track:4duVbLF51QbIQ7cUW3SvD3", 
+                "acousticness": 0.488, 
+                "instrumentalness": 8.29e-05, 
+                "time_signature": 4, 
+                "danceability": 0.934, 
+                "key": 9, 
+                "duration_ms": 174940, 
+                "loudness": -10.569, 
+                "valence": 0.416, 
+                "type": "audio_features", 
+                "id": "4duVbLF51QbIQ7cUW3SvD3", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "4duVbLF51QbIQ7cUW3SvD3", 
+        "artist_name": "dopeSMOOTHIES", 
+        "related_artist_popularity": {
+            "dopeSMOOTHIES": 37
+        }, 
+        "album_name": "Waverunner", 
+        "genres": [], 
+        "track_popularity": 51, 
+        "artistID": {
+            "name": "dopeSMOOTHIES", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2r5tOZs4UzgYpvavtGtF3k"
+            }, 
+            "uri": "spotify:artist:2r5tOZs4UzgYpvavtGtF3k", 
+            "href": "https://api.spotify.com/v1/artists/2r5tOZs4UzgYpvavtGtF3k", 
+            "type": "artist", 
+            "id": "2r5tOZs4UzgYpvavtGtF3k"
+        }, 
+        "track_name": "Waverunners", 
+        "followers": {
+            "total": 185, 
+            "href": null
+        }, 
+        "artist_popularity": 37
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/7sdii2V5mJRSPlfbWQqeqT", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/7sdii2V5mJRSPlfbWQqeqT", 
+                "energy": 0.559, 
+                "liveness": 0.151, 
+                "tempo": 110.033, 
+                "speechiness": 0.42, 
+                "uri": "spotify:track:7sdii2V5mJRSPlfbWQqeqT", 
+                "acousticness": 0.635, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.921, 
+                "key": 0, 
+                "duration_ms": 174475, 
+                "loudness": -5.382, 
+                "valence": 0.499, 
+                "type": "audio_features", 
+                "id": "7sdii2V5mJRSPlfbWQqeqT", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "7sdii2V5mJRSPlfbWQqeqT", 
+        "artist_name": "Joyner Lucas", 
+        "related_artist_popularity": {
+            "Joyner Lucas": 59
+        }, 
+        "album_name": "Ultrasound", 
+        "genres": [
+            "deep underground hip hop", 
+            "underground hip hop", 
+            "underground pop rap"
+        ], 
+        "track_popularity": 64, 
+        "artistID": {
+            "name": "Joyner Lucas", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+            }, 
+            "uri": "spotify:artist:6C1ohJrd5VydigQtaGy5Wa", 
+            "href": "https://api.spotify.com/v1/artists/6C1ohJrd5VydigQtaGy5Wa", 
+            "type": "artist", 
+            "id": "6C1ohJrd5VydigQtaGy5Wa"
+        }, 
+        "track_name": "Ultrasound", 
+        "followers": {
+            "total": 44259, 
+            "href": null
+        }, 
+        "artist_popularity": 59
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/2eMwDehkIC1j68U6FA3Eiq", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/2eMwDehkIC1j68U6FA3Eiq", 
+                "energy": 0.75, 
+                "liveness": 0.109, 
+                "tempo": 155.096, 
+                "speechiness": 0.231, 
+                "uri": "spotify:track:2eMwDehkIC1j68U6FA3Eiq", 
+                "acousticness": 0.00264, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.732, 
+                "key": 11, 
+                "duration_ms": 182707, 
+                "loudness": -6.366, 
+                "valence": 0.392, 
+                "type": "audio_features", 
+                "id": "2eMwDehkIC1j68U6FA3Eiq", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "2eMwDehkIC1j68U6FA3Eiq", 
+        "artist_name": "Lil Uzi Vert", 
+        "related_artist_popularity": {
+            "Lil Uzi Vert": 89
+        }, 
+        "album_name": "XO TOUR Llif3", 
+        "genres": [
+            "dwn trap", 
+            "rap", 
+            "trap music"
+        ], 
+        "track_popularity": 95, 
+        "artistID": {
+            "name": "Lil Uzi Vert", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+            }, 
+            "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz", 
+            "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz", 
+            "type": "artist", 
+            "id": "4O15NlyKLIASxsJ0PrXPfz"
+        }, 
+        "track_name": "XO TOUR Llif3", 
+        "followers": {
+            "total": 1014439, 
+            "href": null
+        }, 
+        "artist_popularity": 89
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/6I6NX6tjGsxFAsIfGzY9lJ", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/6I6NX6tjGsxFAsIfGzY9lJ", 
+                "energy": 0.409, 
+                "liveness": 0.189, 
+                "tempo": 174.324, 
+                "speechiness": 0.421, 
+                "uri": "spotify:track:6I6NX6tjGsxFAsIfGzY9lJ", 
+                "acousticness": 0.361, 
+                "instrumentalness": 0.00012, 
+                "time_signature": 4, 
+                "danceability": 0.653, 
+                "key": 9, 
+                "duration_ms": 264747, 
+                "loudness": -11.446, 
+                "valence": 0.181, 
+                "type": "audio_features", 
+                "id": "6I6NX6tjGsxFAsIfGzY9lJ", 
+                "mode": 1
+            }
+        ], 
+        "trackID": "6I6NX6tjGsxFAsIfGzY9lJ", 
+        "artist_name": "J. Cole", 
+        "related_artist_popularity": {
+            "J. Cole": 86
+        }, 
+        "album_name": "4 Your Eyez Only", 
+        "genres": [
+            "pop rap", 
+            "rap"
+        ], 
+        "track_popularity": 80, 
+        "artistID": {
+            "name": "J. Cole", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+            }, 
+            "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5", 
+            "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5", 
+            "type": "artist", 
+            "id": "6l3HvQ5sa6mXTsMTB19rO5"
+        }, 
+        "track_name": "Deja Vu", 
+        "followers": {
+            "total": 2821906, 
+            "href": null
+        }, 
+        "artist_popularity": 86
+    }, 
+    {
+        "features": [
+            {
+                "track_href": "https://api.spotify.com/v1/tracks/3hGnZJCa0h9zTKuqKUMWqD", 
+                "analysis_url": "https://api.spotify.com/v1/audio-analysis/3hGnZJCa0h9zTKuqKUMWqD", 
+                "energy": 0.708, 
+                "liveness": 0.164, 
+                "tempo": 169.99, 
+                "speechiness": 0.258, 
+                "uri": "spotify:track:3hGnZJCa0h9zTKuqKUMWqD", 
+                "acousticness": 0.398, 
+                "instrumentalness": 0, 
+                "time_signature": 4, 
+                "danceability": 0.552, 
+                "key": 9, 
+                "duration_ms": 261853, 
+                "loudness": -6.51, 
+                "valence": 0.468, 
+                "type": "audio_features", 
+                "id": "3hGnZJCa0h9zTKuqKUMWqD", 
+                "mode": 0
+            }
+        ], 
+        "trackID": "3hGnZJCa0h9zTKuqKUMWqD", 
+        "artist_name": "Banks & Steelz", 
+        "related_artist_popularity": {
+            "Banks & Steelz": 43
+        }, 
+        "album_name": "Anything But Words", 
+        "genres": [], 
+        "track_popularity": 35, 
+        "artistID": {
+            "name": "Banks & Steelz", 
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3bWdqOEkgKiSmVnHZM2feN"
+            }, 
+            "uri": "spotify:artist:3bWdqOEkgKiSmVnHZM2feN", 
+            "href": "https://api.spotify.com/v1/artists/3bWdqOEkgKiSmVnHZM2feN", 
+            "type": "artist", 
+            "id": "3bWdqOEkgKiSmVnHZM2feN"
+        }, 
+        "track_name": "Anything But Words", 
+        "followers": {
+            "total": 16074, 
+            "href": null
+        }, 
+        "artist_popularity": 43
+    }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "composition": "travis",
+    "mass": 51.6467170715332,
+    "id": 0
+  },
+  {
+    "composition": "flume",
+    "mass": 84.86141967773438,
+    "id": 1
+  },
+  {
+    "composition": "flume_album",
+    "mass": 94.130859375,
+    "id": 2
+  },
+  {
+    "composition": "crooked_colours_album",
+    "mass": 80.1807861328125,
+    "id": 3
+  },
+  {
+    "composition": "crooked_colours",
+    "mass": 78.88370513916016,
+    "id": 4
+  },
+  {
+    "composition": "london_grammar",
+    "mass": 58.874664306640625,
+    "id": 5
+  },
+  {
+    "composition": "zero7",
+    "mass": 81.55574035644531,
+    "id": 6
+  },
+  {
+    "composition": "kanye",
+    "mass": 84.66905212402344,
+    "id": 7
+  },
+  {
+    "composition": "drake",
+    "mass": 60.98012924194336,
+    "id": 8
+  },
+  {
+    "composition": "drake1",
+    "mass": 95.16136169433594,
+    "id": 9
+  },
+  {
+    "composition": "drake2",
+    "mass": 86.63233947753906,
+    "id": 10
+  },
+  {
+    "composition": "drake3",
+    "mass": 53.032989501953125,
+    "id": 11
+  },
+  {
+    "composition": "drake4",
+    "mass": 88.05604553222656,
+    "id": 12
+  },
+  {
+    "composition": "drake5",
+    "mass": 75.96497344970703,
+    "id": 13
+  },
+  {
+    "composition": "kendrick",
+    "mass": 54.820865631103516,
+    "id": 14
+  },
+  {
+    "composition": "nuv",
+    "mass": 69.76701354980469,
+    "id": 15
+  },
+  {
+    "composition": "lost_boy_crow",
+    "mass": 96.22908020019531,
+    "id": 16
+  },
+  {
+    "composition": "ott",
+    "mass": 54.71870040893555,
+    "id": 17
+  },
+  {
+    "composition": "nora",
+    "mass": 67.25714874267578,
+    "id": 18
+  },
+  {
+    "composition": "slusshi",
+    "mass": 94.38467407226562,
+    "id": 19
+  },
+  {
+    "composition": "washed_out",
+    "mass": 86.4662857055664,
+    "id": 20
+  }
+]
